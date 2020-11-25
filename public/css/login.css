@@ -1,0 +1,74 @@
+.h-boder{
+	width: 70%;
+	margin-left: auto;
+	margin-right: auto;
+	border-left: 1px solid rgba(0,0,0,0.5);
+	border-right: 1px solid rgba(0,0,0,0.5);
+	font-family: Nirmala UI;
+
+
+
+}
+
+.image{
+	padding-top: 100px;
+}
+
+
+.h-img{
+	border-radius: 0px;
+
+}
+
+.h-align{
+	text-align: center;
+	margin-top: 190px;
+}
+.h-log{
+	opacity: 60%;
+	font-size: 30px;
+	padding-right: 15px;
+}
+.h-form{
+
+	width: 20%;
+	margin-left: auto;
+	margin-right: auto;
+	border-bottom: 1px solid rgba(0,0,0,0.5);
+	font-size: 23px;
+	opacity: 70%;
+	
+
+}
+.n-controller{
+
+	border: aliceblue;
+}
+.n-fafa{
+	font-size: 17px;
+}
+.n-fa-user{
+
+	margin-right: 30px;
+}
+.n-remember{
+
+	opacity: 50%;
+	padding-top: 20px;
+}
+.n-second{
+	padding-top: 20px;
+
+
+}
+.n-for-submit{
+	border: 1px solid #01a197;
+	padding: 11px 30px;
+	border-radius: 20px;
+	color: #01a197;
+}
+.n-forgot{
+	
+	text-decoration: none;
+	color: #01a197;
+}

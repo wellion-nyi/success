@@ -1,0 +1,119 @@
+/*start report*/
+/*all left right*/
+
+html, body{
+	font-family: Nirmala UI;
+}
+.report{
+	
+	z-index: 2 !important;
+	margin-top: -26px;
+	padding-left: 305px;
+}
+
+.n-vartical{	padding-bottom: 350px;
+	box-shadow: -4px 0px 9px;
+}
+.n-report-z{
+	
+background-color: #F8FAFC;
+
+width: 74px;
+color: black;
+text-shadow: -2px 0px 5px;}.n-learn-play{
+	z-index: 3;
+	margin-top: -32px;
+	padding-left: 760px;}
+.n-play{	box-shadow: -2px 0px 5px;
+	box-decoration-break: 20px;
+	color: black;
+	padding: 10px;
+	background-color: #F8FAFC
+;
+	transition: 0.6s ease;
+}
+.n-play:hover{
+	color: #B8B7B7
+;
+	transition: 0.6s ease;
+}
+.n-forstudents-2{	margin-top: -23px;
+	padding-left: 940px;
+}.n-leave-out{	margin-top: -23px;
+	padding-left: 1111px;
+}
+.n-ruller{
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-left: 55px;}
+.n-papper{
+	font-size: 22px;
+	padding-right: 15px;
+	color: #6A6868
+;
+}.n-attendance-for{
+	font-size: 15px;
+	padding-right: 140px;
+	
+}
+.n-double{
+	color: black;
+	transition: 0.6s ease;
+}
+.n-double:hover{
+	color: #B8B7B7
+;
+	transition: 0.6s ease;
+}
+.n-student-for{
+	font-size: 15px;
+}
+.n-teacher-for{
+	padding-right: 162px;
+}
+.n-report-forfor{
+	padding-right: 178px;
+}
+.n-message-for{
+	padding-right: 160px;
+}
+
+
+/*end report*/
+/*all left right*/
+
+/*start attendance*/
+
+.h-attendance{
+	width: 124px;
+}
+/*end attendance*/
+
+
+
+
+/*start students*/
+
+.h-student{
+	width: 89px;
+}
+
+/*end students*/
+
+
+
+
+
+/*start message*/
+.h-message{
+	width: 94px;
+
+}
+/*end message*/
+
+
+/*start teacher*/
+.h-teacher{
+	width: 90px;
+}
+/*end teacher*/

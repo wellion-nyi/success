@@ -1,0 +1,82 @@
+
+html,body{
+	font-family: Nirmala UI;
+}
+
+.makker{
+	background-image: url('/upload/Computer-Technology.jpg');
+	background-repeat: no-repeat;
+	margin: 0px;
+	background-size: 100% 946px;
+}
+.h-color{
+	background-color: rgba(25,25,26,0.6);
+	width: 100%;
+	height: 946px;
+
+}
+.team{
+	color: white;
+	font-size: 25px;
+	font-style: bold;
+}
+.all-back{
+
+	width: 80%;
+	margin-left: auto;
+	margin-right: auto;
+}
+.n-container-for{
+
+	width: 80%;
+	margin-left: auto;
+	margin-right: auto;
+	
+	color: white;
+}
+.n-col-padding{
+	margin-right: 63px;
+	text-align: center;
+}
+
+.n-link-icon{
+
+	margin-top: 30px;
+	border: 1px solid #01a197;
+	border-radius: 50%;
+	padding: 22px 33px;
+	background-color: #01a197;
+	
+}
+
+.n-link-icon, i{
+	font-size: 50px;
+	color: white;
+	margin-top: 5px;
+}
+
+.n-planet{
+	margin-top: 40px;
+}
+
+.h-row-pad{
+	margin-top: 60px;
+	border-bottom: 5px solid #ffffff;
+	margin-bottom: 20px;
+}
+
+.h-image{
+	margin-top: -8px;
+	height: 110px;
+}
+
+.h-arrow1{
+	width: 750px;
+	margin-top: -18px;
+}
+.h-arrow2{
+	    width: 480px;
+		margin-top: 40px;
+		margin-left: -180px;
+}
+
