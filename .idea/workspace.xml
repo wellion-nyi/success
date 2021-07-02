@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="023e79d8-5c1f-48e5-84c5-e6ca4bcc7b8b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/textfile.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/success.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/ChartController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/ChartController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/FirstController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/FirstController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/SectionController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/SectionController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/StudentController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/StudentController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/TeacherController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/TeacherController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/indexhome.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/indexhome.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/alljs.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/alljs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/department/department.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/department/department.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/department/department_edit.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/department/department_edit.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/forstudents/forstudent.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/home/attendance.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/home/attendance.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/home/one-teacher.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/home/one-teacher.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/home/teacher.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/home/teacher.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/leaveout/leaveout.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/leaveout/leaveout.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/search/search.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/search/search.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/search/searchdep.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/search/searchdep.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/section/section.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/section/section.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/section/section_edit.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/section/section_edit.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/student/student.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/student/student.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/student/student_edit.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/student/student_edit.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/student_department/stu_department.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/student_department/stu_department.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/studentsinclass/students.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/studentsinclass/students.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/studentsinclass/studentsdepar.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/studentsinclass/studentsdepar.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/subject/subject.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/subject/subject.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/subject/subjectforedit.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/subject/subjectforedit.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/teacher/teacher.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/teacher/teacher.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/teacher/teacher_edit.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/teacher/teacher_edit.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/uifaceclass/uiclass.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/uifaceclass/uiclass.blade.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1oiqrTHAjBA8Bz0m29FrcWqyTTW" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="023e79d8-5c1f-48e5-84c5-e6ca4bcc7b8b" name="Default Changelist" comment="" />
+      <created>1613779956481</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613779956481</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
